@@ -1,0 +1,1 @@
+![alt text](https://github.com/jt3205/Android-practice/blob/master/Test1/화면%20캡쳐.png);
